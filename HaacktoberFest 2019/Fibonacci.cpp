@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	int nc, count=0, sum;
+	int nc, sum,count=0;
 	int first, second;
 	cout << "Enter the no. of terms please" << endl;
 	cin >> nc;
@@ -21,3 +21,4 @@ int main()
 	}
 	return 0;
 }
+\\Arnab pal
